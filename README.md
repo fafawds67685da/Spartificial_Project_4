@@ -7,16 +7,6 @@
 📂 **Dataset:** [Artificial Lunar Rocky Landscape Dataset (Kaggle)](https://www.kaggle.com/datasets/romainpessia/artificial-lunar-rocky-landscape-dataset)  
 🎓 **Developed At:** [Spartificial](https://spartificial.com/)  
 
----
-
-## **Demo Video**  
-📹 Watch the demo below:  
-
-<video src="https://github.com/fafawds67685da/Spartificial_Project_4/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(6).mp4" controls width="600"></video>  
-
-🔗 **Alternative link:** [Watch the Demo](https://github.com/fafawds67685da/Spartificial_Project_4/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(6).mp4)  
-
----
 
 ## **Setup**  
 1. Clone or download the repository and open the project directory in your editor (VS Code).  
