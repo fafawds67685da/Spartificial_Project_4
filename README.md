@@ -8,7 +8,7 @@
 🎓 **Developed At:** [Spartificial](https://spartificial.com/)  
 
 ## **Demo Video**  
-📹 [Watch the Demo](https://github.com/fafawds67685da/Spartificial_Project_4/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(4)%20(1).mp4) *(Replace "#" with your video link once uploaded)*  
+📹 [Watch the Demo](https://github.com/fafawds67685da/Spartificial_Project_4/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(6).mp4) *(Replace "#" with your video link once uploaded)*  
 
 ---
 
